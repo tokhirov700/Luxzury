@@ -91,6 +91,7 @@ color: #0A8077;
 .hero_container{
     display: flex;
     position: relative;
+    padding: 0 0 0 136px;
     /* justify-content: space-between; */
 
 }
@@ -118,6 +119,7 @@ margin-bottom: 39px;
    margin-top: 90px;
 }
 .position{
+    max-width: 847px;
     position: absolute;
     top: 522px;
     left: 100px;
